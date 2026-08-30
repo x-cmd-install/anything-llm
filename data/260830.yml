@@ -1,0 +1,66 @@
+about:
+  description: Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience 
+  license: MIT
+  homepage: https://anythingllm.com
+  head: bc71392
+  archived: false
+  latestVersion: v1.16.1
+  collectedAt: 2026-08-30T05:52:26Z
+timeline:
+  created: 2023-06-04
+  lastCommit: 2026-08-28
+  lastRelease: 2026-08-27
+popularity:
+  star: 65372
+  watcher: 411
+  fork: 7212
+  release: 35
+  contributor: 245
+  pullRequest: 620
+  issue: 3770
+language:
+  JavaScript: 9283699
+  TypeScript: 166141
+  CSS: 124333
+  HTML: 86344
+  Shell: 56317
+  Python: 28524
+  Dockerfile: 20206
+  PowerShell: 9937
+  Go Template: 1822
+  HCL: 1211
+  Batchfile: 48
+totalLine: 9778582
+recent:
+  last30d:
+    since: 2026-07-31
+    release: 2
+    mergedPR: 42
+    openPR: 15
+    closedIssue: 48
+    openIssue: 14
+    commit: 64
+  last90d:
+    since: 2026-06-01
+    release: 6
+    mergedPR: 137
+    openPR: 23
+    closedIssue: 180
+    openIssue: 49
+    commit: 254
+  last180d:
+    since: 2026-03-03
+    release: 10
+    mergedPR: 290
+    openPR: 30
+    closedIssue: 462
+    openIssue: 100
+    commit: 445
+  last360d:
+    since: 2025-09-04
+    release: 15
+    mergedPR: 504
+    openPR: 32
+    closedIssue: 850
+    openIssue: 142
+    commit: 696
