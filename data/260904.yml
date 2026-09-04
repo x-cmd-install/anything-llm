@@ -7,18 +7,18 @@ about:
   head: eb7df1e
   archived: false
   latestVersion: v1.16.1
-  collectedAt: 2026-09-04T20:07:15Z
+  collectedAt: 2026-09-04T20:33:41Z
 timeline:
   created: 2023-06-04
   lastCommit: 2026-09-02
   lastRelease: 2026-08-27
 popularity:
-  star: 65619
+  star: 65620
   watcher: 414
   fork: 7251
   release: 35
   contributor: 251
-  pullRequest: 2246
+  pullRequest: 2247
   issue: 3802
 language:
   JavaScript: 9513001
@@ -38,7 +38,7 @@ recent:
     since: 2026-08-05
     release: 2
     mergedPR: 62
-    openPR: 18
+    openPR: 19
     closedIssue: 66
     openIssue: 18
     commit: 76
@@ -46,7 +46,7 @@ recent:
     since: 2026-07-06
     release: 2
     mergedPR: 97
-    openPR: 20
+    openPR: 21
     closedIssue: 109
     openIssue: 29
     commit: 146
@@ -54,7 +54,7 @@ recent:
     since: 2026-06-06
     release: 6
     mergedPR: 158
-    openPR: 23
+    openPR: 24
     closedIssue: 190
     openIssue: 51
     commit: 261
@@ -62,7 +62,7 @@ recent:
     since: 2026-03-08
     release: 10
     mergedPR: 303
-    openPR: 29
+    openPR: 30
     closedIssue: 473
     openIssue: 103
     commit: 441
@@ -70,7 +70,7 @@ recent:
     since: 2025-09-09
     release: 15
     mergedPR: 530
-    openPR: 30
+    openPR: 31
     closedIssue: 868
     openIssue: 147
     commit: 724
@@ -78,20 +78,20 @@ recent:
     since: 2024-09-14
     release: 29
     mergedPR: 954
-    openPR: 31
+    openPR: 32
     closedIssue: 2054
     openIssue: 256
     commit: 1382
 total:
   release: 35
   mergedPR: 1616
-  openPR: 31
+  openPR: 32
   closedIssue: 3503
   openIssue: 299
   commit: 2352
 ---
 path: /home/runner/.x-repo/github.com/Mintplex-Labs/anything-llm
-collectedAt: 2026-09-04T20:07:20Z
+collectedAt: 2026-09-04T20:33:44Z
 loc:
   JavaScript:
     code: 166638
