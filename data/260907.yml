@@ -5,19 +5,19 @@ about:
   head: eb7df1e
   archived: false
   latestVersion: "v1.16.1"
-  collectedAt: 2026-09-07T05:37:53Z
+  collectedAt: 2026-09-07T18:47:26Z
 timeline:
   created: 2023-06-04
   lastCommit: 2026-09-02
   lastRelease: 2026-08-27
 popularity:
-  star: 65708
+  star: 65736
   watcher: 415
-  fork: 7268
+  fork: 7277
   release: 35
   contributor: 251
-  pullRequest: 2254
-  issue: 3821
+  pullRequest: 2257
+  issue: 3822
 language:
   JavaScript: 9513001
   TypeScript: 166141
@@ -36,60 +36,60 @@ recent:
     since: 2026-08-08
     release: 2
     mergedPR: 60
-    openPR: 25
+    openPR: 28
     closedIssue: 63
-    openIssue: 37
+    openIssue: 38
     commit: 60
   last60d:
     since: 2026-07-09
     release: 2
     mergedPR: 90
-    openPR: 27
+    openPR: 30
     closedIssue: 99
-    openIssue: 47
+    openIssue: 48
     commit: 118
   last90d:
     since: 2026-06-09
     release: 6
     mergedPR: 148
-    openPR: 30
+    openPR: 33
     closedIssue: 183
-    openIssue: 66
+    openIssue: 67
     commit: 250
   last180d:
     since: 2026-03-11
     release: 10
     mergedPR: 297
-    openPR: 36
+    openPR: 39
     closedIssue: 463
-    openIssue: 122
+    openIssue: 123
     commit: 422
   last360d:
     since: 2025-09-12
     release: 15
     mergedPR: 530
-    openPR: 37
+    openPR: 40
     closedIssue: 865
-    openIssue: 166
+    openIssue: 167
     commit: 714
   last720d:
     since: 2024-09-17
     release: 29
     mergedPR: 952
-    openPR: 38
+    openPR: 41
     closedIssue: 2045
-    openIssue: 274
+    openIssue: 275
     commit: 1378
 total:
   release: 35
   mergedPR: 1616
-  openPR: 38
+  openPR: 41
   closedIssue: 3503
-  openIssue: 318
+  openIssue: 319
   commit: 2352
 ---
 path: /home/runner/.x-repo/github.com/Mintplex-Labs/anything-llm
-collectedAt: 2026-09-07T05:37:59Z
+collectedAt: 2026-09-07T18:47:33Z
 loc:
   JavaScript:
     code: 166638
@@ -200,7 +200,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:38:02+00:00
+  collectedAt: 2026-09-07T18:47:36+00:00
   platform:
     darwin/arm64:
       name:  AnythingLLMDesktop-Arm64.AppImage
