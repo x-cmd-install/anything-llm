@@ -5,13 +5,13 @@ about:
   head: d8a655e
   archived: false
   latestVersion: "v1.16.1"
-  collectedAt: 2026-09-08T02:56:12Z
+  collectedAt: 2026-09-08T05:36:45Z
 timeline:
   created: 2023-06-04
   lastCommit: 2026-09-08
   lastRelease: 2026-08-27
 popularity:
-  star: 65752
+  star: 65759
   watcher: 415
   fork: 7280
   release: 35
@@ -39,7 +39,7 @@ recent:
     openPR: 9
     closedIssue: 85
     openIssue: 17
-    commit: 0
+    commit: 73
   last60d:
     since: 2026-07-10
     release: 2
@@ -47,7 +47,7 @@ recent:
     openPR: 11
     closedIssue: 120
     openIssue: 27
-    commit: 0
+    commit: 131
   last90d:
     since: 2026-06-10
     release: 5
@@ -55,7 +55,7 @@ recent:
     openPR: 14
     closedIssue: 203
     openIssue: 44
-    commit: 0
+    commit: 263
   last180d:
     since: 2026-03-12
     release: 10
@@ -63,7 +63,7 @@ recent:
     openPR: 20
     closedIssue: 486
     openIssue: 96
-    commit: 0
+    commit: 435
   last360d:
     since: 2025-09-13
     release: 15
@@ -71,7 +71,7 @@ recent:
     openPR: 21
     closedIssue: 890
     openIssue: 141
-    commit: 0
+    commit: 727
   last720d:
     since: 2024-09-18
     release: 29
@@ -89,7 +89,7 @@ total:
   commit: 2365
 ---
 path: /home/runner/.x-repo/github.com/Mintplex-Labs/anything-llm
-collectedAt: 2026-09-08T02:56:18Z
+collectedAt: 2026-09-08T05:36:52Z
 loc:
   JavaScript:
     code: 170175
