@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 631052881,
       "digest": "sha256:41c0b98117ca8105e0a161599e7fb0612de264e44cdb78dc2f5c31d5d1d3dcf1",
-      "download_count": 122,
+      "download_count": 132,
       "created_at": "2026-08-27T16:37:21Z",
       "updated_at": "2026-08-27T16:37:42Z",
       "browser_download_url": "https://github.com/Mintplex-Labs/anything-llm/releases/download/v1.16.1/AnythingLLMDesktop-Arm64.AppImage"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 521403672,
       "digest": "sha256:cb692824a838ff49773812562db49f940120dc2492e421f073728b9209334286",
-      "download_count": 259,
+      "download_count": 271,
       "created_at": "2026-08-27T16:37:42Z",
       "updated_at": "2026-08-27T16:37:58Z",
       "browser_download_url": "https://github.com/Mintplex-Labs/anything-llm/releases/download/v1.16.1/AnythingLLMDesktop-Arm64.exe"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 547603907,
       "digest": "sha256:e05ae16d0e842a3bb6a26b826e06f9f61c3070464fd01aec96b0e55e6c00d729",
-      "download_count": 348,
+      "download_count": 360,
       "created_at": "2026-08-27T16:37:58Z",
       "updated_at": "2026-08-27T16:38:13Z",
       "browser_download_url": "https://github.com/Mintplex-Labs/anything-llm/releases/download/v1.16.1/AnythingLLMDesktop-Silicon.dmg"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 902698392,
       "digest": "sha256:628dd7fc2320d258ff913fab66b639bc2b4fe7598fedeb64796d765096357046",
-      "download_count": 749,
+      "download_count": 781,
       "created_at": "2026-08-27T16:36:22Z",
       "updated_at": "2026-08-27T16:36:51Z",
       "browser_download_url": "https://github.com/Mintplex-Labs/anything-llm/releases/download/v1.16.1/AnythingLLMDesktop.AppImage"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 513697075,
       "digest": "sha256:adf73fd9555972243a30ce4f378cdf05e952528f0e653137c03f75b9d46a6e93",
-      "download_count": 121,
+      "download_count": 128,
       "created_at": "2026-08-27T16:36:51Z",
       "updated_at": "2026-08-27T16:37:07Z",
       "browser_download_url": "https://github.com/Mintplex-Labs/anything-llm/releases/download/v1.16.1/AnythingLLMDesktop.dmg"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 410516264,
       "digest": "sha256:8b5d9583abbbb236a5f8f3970b8e9d47e6b167a7707a16c8fe6a655a32c92775",
-      "download_count": 4303,
+      "download_count": 4658,
       "created_at": "2026-08-27T16:37:07Z",
       "updated_at": "2026-08-27T16:37:21Z",
       "browser_download_url": "https://github.com/Mintplex-Labs/anything-llm/releases/download/v1.16.1/AnythingLLMDesktop.exe"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 11669,
       "digest": "sha256:45c87983ef804a27124d74e73eaebe14c8b6c6703154199a26c0e36df8a40204",
-      "download_count": 100,
+      "download_count": 104,
       "created_at": "2026-08-27T16:38:13Z",
       "updated_at": "2026-08-27T16:38:13Z",
       "browser_download_url": "https://github.com/Mintplex-Labs/anything-llm/releases/download/v1.16.1/installer.sh"
