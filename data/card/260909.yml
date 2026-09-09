@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.16.1"
   latestRelease: "v1.16.1"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T05:56:59Z
+  collectedAt: 2026-09-09T20:24:23Z
 timeline:
   created: 2023-06-04
   lastCommit: 2026-09-09
@@ -15,13 +15,13 @@ timeline:
   lastRelease: 2026-08-27
   lastPrerelease: 
 popularity:
-  star: 65811
-  watcher: 414
+  star: 65842
+  watcher: 413
   fork: 7292
   release: 35
   contributor: 257
-  pullRequest: 2268
-  issue: 3823
+  pullRequest: 2269
+  issue: 3824
 language:
   JavaScript: 9737849
   TypeScript: 166141
@@ -40,60 +40,60 @@ recent:
     since: 2026-08-10
     release: 2
     mergedPR: 78
-    openPR: 8
+    openPR: 9
     closedIssue: 84
-    openIssue: 18
+    openIssue: 19
     commit: 80
   last60d:
     since: 2026-07-11
     release: 2
     mergedPR: 105
-    openPR: 10
+    openPR: 11
     closedIssue: 123
-    openIssue: 27
+    openIssue: 28
     commit: 138
   last90d:
     since: 2026-06-11
     release: 5
     mergedPR: 160
-    openPR: 12
+    openPR: 13
     closedIssue: 204
-    openIssue: 44
+    openIssue: 45
     commit: 270
   last180d:
     since: 2026-03-13
     release: 10
     mergedPR: 310
-    openPR: 18
+    openPR: 19
     closedIssue: 488
-    openIssue: 96
+    openIssue: 97
     commit: 442
   last360d:
     since: 2025-09-14
     release: 15
     mergedPR: 547
-    openPR: 18
+    openPR: 19
     closedIssue: 893
-    openIssue: 140
+    openIssue: 141
     commit: 734
   last720d:
     since: 2024-09-19
     release: 29
     mergedPR: 966
-    openPR: 19
+    openPR: 20
     closedIssue: 2061
-    openIssue: 245
+    openIssue: 246
     commit: 1397
 total:
   release: 35
   mergedPR: 1634
-  openPR: 19
+  openPR: 20
   closedIssue: 3533
-  openIssue: 290
+  openIssue: 291
   commit: 2372
 ---
 path: /home/runner/.x-repo/github.com/Mintplex-Labs/anything-llm
-collectedAt: 2026-09-09T05:57:06Z
+collectedAt: 2026-09-09T20:24:33Z
 loc:
   JavaScript:
     code: 170546
