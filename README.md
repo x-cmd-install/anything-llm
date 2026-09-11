@@ -38,11 +38,11 @@ Total: **253,870** lines of code across **1280** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 65,907 · **Forks**: 7,303 · **Open issues**: 3,824 · **Contributors**: 258
+- **Stars**: 65,931 · **Forks**: 7,309 · **Open issues**: 3,823 · **Contributors**: 258
 
 ## Totals (cumulative)
 
-- **Releases**: 35 · **Merged PRs**: 1635 · **Open PRs**: 21 · **Closed issues**: 3534 · **Open issues**: 290 · **Commits**: 2373
+- **Releases**: 35 · **Merged PRs**: 1635 · **Open PRs**: 21 · **Closed issues**: 3534 · **Open issues**: 289 · **Commits**: 2373
 
 ## Recent activity
 
@@ -52,8 +52,8 @@ Total: **253,870** lines of code across **1280** files in the top 5 languages.
 | last60d | 2026-07-13 | 2 | 106 | 12 | 122 | 27 | 139 |
 | 90d | 2026-06-13 | 5 | 158 | 14 | 197 | 41 | 271 |
 | last180d | 2026-03-15 | 10 | 310 | 19 | 484 | 95 | 443 |
-| 360d | 2025-09-16 | 15 | 548 | 20 | 889 | 140 | 735 |
-| last720d | 2024-09-21 | 29 | 962 | 21 | 2053 | 245 | 1394 |
+| 360d | 2025-09-16 | 15 | 548 | 20 | 889 | 139 | 735 |
+| last720d | 2024-09-21 | 29 | 962 | 21 | 2053 | 244 | 1394 |
 
 ## Release assets
 
@@ -76,4 +76,4 @@ Install metadata for anything-llm lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T05:54:07Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T18:59:00Z._
