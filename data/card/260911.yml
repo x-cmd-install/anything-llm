@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.16.1"
   latestRelease: "v1.16.1"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T05:53:53Z
+  collectedAt: 2026-09-11T18:58:48Z
 timeline:
   created: 2023-06-04
   lastCommit: 2026-09-10
@@ -15,13 +15,13 @@ timeline:
   lastRelease: 2026-08-27
   lastPrerelease: 
 popularity:
-  star: 65907
-  watcher: 412
-  fork: 7303
+  star: 65931
+  watcher: 413
+  fork: 7309
   release: 35
   contributor: 258
   pullRequest: 2272
-  issue: 3824
+  issue: 3823
 language:
   JavaScript: 9857718
   TypeScript: 166141
@@ -74,7 +74,7 @@ recent:
     mergedPR: 548
     openPR: 20
     closedIssue: 889
-    openIssue: 140
+    openIssue: 139
     commit: 735
   last720d:
     since: 2024-09-21
@@ -82,18 +82,18 @@ recent:
     mergedPR: 962
     openPR: 21
     closedIssue: 2053
-    openIssue: 245
+    openIssue: 244
     commit: 1394
 total:
   release: 35
   mergedPR: 1635
   openPR: 21
   closedIssue: 3534
-  openIssue: 290
+  openIssue: 289
   commit: 2373
 ---
 path: /home/runner/.x-repo/github.com/Mintplex-Labs/anything-llm
-collectedAt: 2026-09-11T05:54:01Z
+collectedAt: 2026-09-11T18:58:55Z
 loc:
   JavaScript:
     code: 172545
