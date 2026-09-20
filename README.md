@@ -4,7 +4,7 @@
 
 Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience 
 
-![anything-llm](https://repo.x-cmd.io/anything-llm.svg)
+[![x-cmd/install — anything-llm Code Quality Monitoring Repo Card](https://repo.x-cmd.io/anything-llm.svg)](https://x-cmd.com/install/anything-llm)
 
 ## Install
 
@@ -38,22 +38,22 @@ Total: **256,542** lines of code across **1289** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 66,158 · **Forks**: 7,348 · **Open issues**: 3,850 · **Contributors**: 261
+- **Stars**: 66,234 · **Forks**: 7,362 · **Open issues**: 3,853 · **Contributors**: 261
 
 ## Totals (cumulative)
 
-- **Releases**: 35 · **Merged PRs**: 1657 · **Open PRs**: 20 · **Closed issues**: 3557 · **Open issues**: 293 · **Commits**: 2397
+- **Releases**: 35 · **Merged PRs**: 1657 · **Open PRs**: 22 · **Closed issues**: 3558 · **Open issues**: 295 · **Commits**: 2397
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 1 | 86 | 8 | 92 | 19 | 93 |
-| last60d | 2026-07-20 | 2 | 123 | 11 | 135 | 30 | 158 |
-| 90d | 2026-06-20 | 4 | 163 | 13 | 189 | 41 | 259 |
-| last180d | 2026-03-22 | 9 | 321 | 18 | 494 | 96 | 454 |
-| 360d | 2025-09-23 | 15 | 556 | 19 | 888 | 141 | 755 |
-| last720d | 2024-09-28 | 29 | 970 | 20 | 2054 | 248 | 1401 |
+| 30d | 2026-08-21 | 1 | 82 | 10 | 90 | 21 | 93 |
+| last60d | 2026-07-22 | 2 | 121 | 13 | 132 | 31 | 158 |
+| 90d | 2026-06-22 | 4 | 159 | 15 | 187 | 40 | 259 |
+| last180d | 2026-03-24 | 9 | 312 | 20 | 492 | 98 | 454 |
+| 360d | 2025-09-25 | 15 | 552 | 21 | 885 | 143 | 755 |
+| last720d | 2024-09-30 | 29 | 966 | 22 | 2050 | 249 | 1399 |
 
 ## Release assets
 
@@ -76,4 +76,4 @@ Install metadata for anything-llm lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:29:49Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T06:01:38Z._
