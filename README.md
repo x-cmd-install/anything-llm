@@ -4,7 +4,7 @@
 
 Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience 
 
-[![x-cmd/install — anything-llm Code Quality Monitoring Repo Card](https://repo.x-cmd.io/anything-llm.svg)](https://x-cmd.com/install/anything-llm)
+[![x-cmd/install — anything-llm Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/anything-llm.svg)](https://x-cmd.com/install/anything-llm)
 
 ## Install
 
@@ -14,12 +14,12 @@ x install anything-llm
 
 ## Code insight
 
-Total: **256,994** lines of code across **1289** files in the top 5 languages.
+Total: **257,112** lines of code across **1289** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| JavaScript | 175,581 | 18,205 | 13,425 | 769 |
-| Jsx | 60,195 | 1,801 | 3,540 | 463 |
+| JavaScript | 175,656 | 18,217 | 13,432 | 769 |
+| Jsx | 60,238 | 1,801 | 3,541 | 463 |
 | Json | 8,213 | 0 | 0 | 28 |
 | Css | 4,193 | 126 | 545 | 8 |
 | TypeScript | 4,044 | 187 | 401 | 21 |
@@ -32,40 +32,41 @@ Total: **256,994** lines of code across **1289** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v1.16.1` (2026-08-27)
-- **Last commit**: 2026-09-21
-- **Assets in release**: 7
+- **Latest**: `v1.16.2` (2026-09-22)
+- **Last commit**: 2026-09-22
+- **Assets in release**: 8
 
 ## Popularity
 
-- **Stars**: 66,315 · **Forks**: 7,383 · **Open issues**: 3,866 · **Contributors**: 262
+- **Stars**: 66,349 · **Forks**: 7,385 · **Open issues**: 3,877 · **Contributors**: 263
 
 ## Totals (cumulative)
 
-- **Releases**: 35 · **Merged PRs**: 1669 · **Open PRs**: 22 · **Closed issues**: 3571 · **Open issues**: 295 · **Commits**: 2414
+- **Releases**: 36 · **Merged PRs**: 1672 · **Open PRs**: 28 · **Closed issues**: 3575 · **Open issues**: 302 · **Commits**: 2416
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 92 | 10 | 100 | 19 | 93 |
-| last60d | 2026-07-24 | 2 | 129 | 13 | 142 | 29 | 162 |
-| 90d | 2026-06-24 | 3 | 168 | 15 | 194 | 40 | 247 |
-| last180d | 2026-03-26 | 9 | 322 | 20 | 500 | 97 | 455 |
-| 360d | 2025-09-27 | 15 | 562 | 21 | 896 | 143 | 750 |
-| last720d | 2024-10-02 | 29 | 976 | 22 | 2053 | 249 | 1413 |
+| 30d | 2026-08-24 | 2 | 93 | 13 | 103 | 25 | 95 |
+| last60d | 2026-07-25 | 3 | 132 | 18 | 146 | 35 | 164 |
+| 90d | 2026-06-25 | 4 | 166 | 20 | 196 | 47 | 249 |
+| last180d | 2026-03-27 | 10 | 316 | 26 | 503 | 103 | 457 |
+| 360d | 2025-09-28 | 16 | 565 | 27 | 899 | 150 | 752 |
+| last720d | 2024-10-03 | 30 | 976 | 28 | 2053 | 256 | 1414 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [AnythingLLMDesktop-Arm64.AppImage](https://github.com/Mintplex-Labs/anything-llm/releases/download/v1.16.1/AnythingLLMDesktop-Arm64.AppImage) | 601.8 MiB | `other` |
-| [AnythingLLMDesktop-Arm64.exe](https://github.com/Mintplex-Labs/anything-llm/releases/download/v1.16.1/AnythingLLMDesktop-Arm64.exe) | 497.2 MiB | `other` |
-| [AnythingLLMDesktop-Silicon.dmg](https://github.com/Mintplex-Labs/anything-llm/releases/download/v1.16.1/AnythingLLMDesktop-Silicon.dmg) | 522.2 MiB | `other` |
-| [AnythingLLMDesktop.AppImage](https://github.com/Mintplex-Labs/anything-llm/releases/download/v1.16.1/AnythingLLMDesktop.AppImage) | 860.9 MiB | `other` |
-| [AnythingLLMDesktop.dmg](https://github.com/Mintplex-Labs/anything-llm/releases/download/v1.16.1/AnythingLLMDesktop.dmg) | 489.9 MiB | `other` |
-| [AnythingLLMDesktop.exe](https://github.com/Mintplex-Labs/anything-llm/releases/download/v1.16.1/AnythingLLMDesktop.exe) | 391.5 MiB | `other` |
-| [installer.sh](https://github.com/Mintplex-Labs/anything-llm/releases/download/v1.16.1/installer.sh) | 11.4 KiB | `other` |
+| [AnythingLLMDesktop-Arm64.AppImage](https://github.com/Mintplex-Labs/anything-llm/releases/download/v1.16.2/AnythingLLMDesktop-Arm64.AppImage) | 602.5 MiB | `other` |
+| [AnythingLLMDesktop-Arm64.exe](https://github.com/Mintplex-Labs/anything-llm/releases/download/v1.16.2/AnythingLLMDesktop-Arm64.exe) | 496.7 MiB | `other` |
+| [AnythingLLMDesktop-Silicon.dmg](https://github.com/Mintplex-Labs/anything-llm/releases/download/v1.16.2/AnythingLLMDesktop-Silicon.dmg) | 539.8 MiB | `other` |
+| [AnythingLLMDesktop.AppImage](https://github.com/Mintplex-Labs/anything-llm/releases/download/v1.16.2/AnythingLLMDesktop.AppImage) | 861.5 MiB | `other` |
+| [AnythingLLMDesktop.dmg](https://github.com/Mintplex-Labs/anything-llm/releases/download/v1.16.2/AnythingLLMDesktop.dmg) | 507.4 MiB | `other` |
+| [AnythingLLMDesktop.exe](https://github.com/Mintplex-Labs/anything-llm/releases/download/v1.16.2/AnythingLLMDesktop.exe) | 391.3 MiB | `other` |
+| [installer.sh](https://github.com/Mintplex-Labs/anything-llm/releases/download/v1.16.2/installer.sh) | 11.4 KiB | `other` |
+| [version.txt](https://github.com/Mintplex-Labs/anything-llm/releases/download/v1.16.2/version.txt) | 6 B | `other` |
 
 ## Improve this data
 
@@ -76,4 +77,4 @@ Install metadata for anything-llm lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T06:15:43Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:13:04Z._
