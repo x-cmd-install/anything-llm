@@ -14,13 +14,13 @@ x install anything-llm
 
 ## Code insight
 
-Total: **249,169** lines of code across **1273** files in the top 5 languages.
+Total: **255,028** lines of code across **1289** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| JavaScript | 179,084 | 18,567 | 13,350 | 763 |
-| Jsx | 60,391 | 1,878 | 3,573 | 470 |
-| Json | 5,460 | 0 | 0 | 20 |
+| JavaScript | 182,778 | 19,001 | 13,741 | 777 |
+| Jsx | 61,060 | 1,904 | 3,595 | 471 |
+| Json | 6,954 | 0 | 0 | 21 |
 | Css | 2,531 | 93 | 545 | 6 |
 | Yaml | 649 | 156 | 40 | 14 |
 
@@ -33,27 +33,27 @@ Total: **249,169** lines of code across **1273** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.18.0` (2026-10-13)
-- **Last commit**: 2026-10-14
+- **Last commit**: 2026-10-15
 - **Assets in release**: 8
 
 ## Popularity
 
-- **Stars**: 67,105 · **Forks**: 7,501 · **Open issues**: 4,009 · **Contributors**: 279
+- **Stars**: 67,178 · **Forks**: 7,511 · **Open issues**: 4,015 · **Contributors**: 282
 
 ## Totals (cumulative)
 
-- **Releases**: 38 · **Merged PRs**: 1790 · **Open PRs**: 22 · **Closed issues**: 3703 · **Open issues**: 306 · **Commits**: 2540
+- **Releases**: 38 · **Merged PRs**: 1798 · **Open PRs**: 20 · **Closed issues**: 3709 · **Open issues**: 306 · **Commits**: 2548
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-15 | 3 | 143 | 6 | 148 | 23 | 140 |
-| last60d | 2026-08-16 | 4 | 227 | 11 | 242 | 37 | 240 |
-| 90d | 2026-07-17 | 5 | 261 | 13 | 283 | 46 | 296 |
-| last180d | 2026-04-18 | 11 | 400 | 19 | 538 | 95 | 530 |
-| 360d | 2025-10-20 | 17 | 654 | 21 | 962 | 149 | 845 |
-| last720d | 2024-10-25 | 31 | 1062 | 22 | 2114 | 257 | 1512 |
+| 30d | 2026-09-16 | 3 | 143 | 4 | 151 | 22 | 148 |
+| last60d | 2026-08-17 | 4 | 232 | 9 | 246 | 37 | 248 |
+| 90d | 2026-07-18 | 5 | 267 | 11 | 286 | 46 | 304 |
+| last180d | 2026-04-19 | 11 | 408 | 17 | 542 | 94 | 538 |
+| 360d | 2025-10-21 | 17 | 660 | 19 | 964 | 149 | 853 |
+| last720d | 2024-10-26 | 30 | 1070 | 20 | 2118 | 257 | 1519 |
 
 ## Release assets
 
@@ -77,4 +77,4 @@ Install metadata for anything-llm lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261015.yml` · 2026-10-15T05:30:16Z._
+_Snapshot: `data/card/261016.yml` · 2026-10-16T05:34:03Z._
