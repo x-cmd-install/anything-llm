@@ -14,11 +14,11 @@ x install anything-llm
 
 ## Code insight
 
-Total: **271,350** lines of code across **1324** files in the top 5 languages.
+Total: **272,091** lines of code across **1327** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| JavaScript | 197,114 | 20,477 | 14,471 | 804 |
+| JavaScript | 197,855 | 20,619 | 14,522 | 807 |
 | Jsx | 62,485 | 2,048 | 3,695 | 478 |
 | Json | 7,424 | 0 | 0 | 21 |
 | Css | 2,622 | 106 | 551 | 7 |
@@ -38,22 +38,22 @@ Total: **271,350** lines of code across **1324** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 68,206 · **Forks**: 7,701 · **Open issues**: 4,195 · **Contributors**: 306
+- **Stars**: 68,238 · **Forks**: 7,702 · **Open issues**: 4,204 · **Contributors**: 306
 
 ## Totals (cumulative)
 
-- **Releases**: 39 · **Merged PRs**: 1942 · **Open PRs**: 23 · **Closed issues**: 3875 · **Open issues**: 320 · **Commits**: 2696
+- **Releases**: 39 · **Merged PRs**: 1949 · **Open PRs**: 26 · **Closed issues**: 3881 · **Open issues**: 323 · **Commits**: 2706
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-13 | 2 | 157 | 8 | 169 | 24 | 146 |
-| last60d | 2026-09-13 | 4 | 304 | 9 | 327 | 44 | 308 |
-| 90d | 2026-08-14 | 5 | 380 | 14 | 413 | 58 | 397 |
-| last180d | 2026-05-16 | 11 | 518 | 19 | 613 | 100 | 644 |
-| 360d | 2025-11-17 | 18 | 796 | 22 | 1080 | 166 | 990 |
-| last720d | 2024-11-22 | 31 | 1184 | 23 | 2193 | 265 | 1619 |
+| 30d | 2026-10-14 | 1 | 157 | 11 | 172 | 26 | 156 |
+| last60d | 2026-09-14 | 4 | 307 | 12 | 330 | 46 | 318 |
+| 90d | 2026-08-15 | 5 | 386 | 17 | 418 | 60 | 407 |
+| last180d | 2026-05-17 | 11 | 525 | 20 | 618 | 102 | 654 |
+| 360d | 2025-11-18 | 18 | 803 | 25 | 1083 | 169 | 1000 |
+| last720d | 2024-11-23 | 31 | 1191 | 26 | 2198 | 268 | 1628 |
 
 ## Release assets
 
@@ -76,4 +76,4 @@ Install metadata for anything-llm lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261112.yml` · 2026-11-12T08:50:36Z._
+_Snapshot: `data/card/261113.yml` · 2026-11-13T07:54:05Z._
