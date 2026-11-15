@@ -38,22 +38,22 @@ Total: **274,103** lines of code across **1339** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 68,258 · **Forks**: 7,704 · **Open issues**: 4,207 · **Contributors**: 306
+- **Stars**: 68,292 · **Forks**: 7,711 · **Open issues**: 4,210 · **Contributors**: 306
 
 ## Totals (cumulative)
 
-- **Releases**: 39 · **Merged PRs**: 1958 · **Open PRs**: 20 · **Closed issues**: 3889 · **Open issues**: 318 · **Commits**: 2714
+- **Releases**: 39 · **Merged PRs**: 1958 · **Open PRs**: 20 · **Closed issues**: 3889 · **Open issues**: 321 · **Commits**: 2714
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-15 | 1 | 159 | 5 | 171 | 23 | 164 |
-| last60d | 2026-09-15 | 4 | 311 | 6 | 328 | 43 | 326 |
-| 90d | 2026-08-16 | 5 | 395 | 11 | 422 | 57 | 415 |
-| last180d | 2026-05-18 | 11 | 534 | 14 | 618 | 99 | 662 |
-| 360d | 2025-11-19 | 18 | 807 | 19 | 1088 | 165 | 1008 |
-| last720d | 2024-11-24 | 31 | 1200 | 20 | 2202 | 265 | 1635 |
+| 30d | 2026-10-16 | 1 | 158 | 4 | 168 | 26 | 164 |
+| last60d | 2026-09-16 | 4 | 303 | 6 | 325 | 45 | 326 |
+| 90d | 2026-08-17 | 5 | 392 | 11 | 420 | 60 | 415 |
+| last180d | 2026-05-19 | 11 | 529 | 14 | 615 | 102 | 662 |
+| 360d | 2025-11-20 | 18 | 806 | 19 | 1087 | 168 | 1008 |
+| last720d | 2024-11-25 | 31 | 1200 | 20 | 2200 | 268 | 1635 |
 
 ## Release assets
 
@@ -76,4 +76,4 @@ Install metadata for anything-llm lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261114.yml` · 2026-11-14T07:53:12Z._
+_Snapshot: `data/card/261115.yml` · 2026-11-15T07:44:30Z._
