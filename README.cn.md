@@ -14,11 +14,11 @@ x install anything-llm
 
 ## 代码洞察
 
-合计: **274,498** 行代码（覆盖前 5 种语言、共 **1340** 个文件）。
+合计: **274,633** 行代码（覆盖前 5 种语言、共 **1340** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| JavaScript | 199,088 | 20,789 | 14,593 | 810 |
+| JavaScript | 199,223 | 20,844 | 14,603 | 810 |
 | Jsx | 63,659 | 2,146 | 3,747 | 488 |
 | Json | 7,424 | 0 | 0 | 21 |
 | Css | 2,622 | 106 | 551 | 7 |
@@ -32,40 +32,43 @@ x install anything-llm
 
 ## 发布
 
-- **最新版本**: `v1.19.0` (2026-10-26)
-- **最近提交**: 2026-11-17
-- **Release 含资产**: 7 个
+- **最新版本**: `v1.20.0` (2026-11-17)
+- **最近提交**: 2026-11-18
+- **Release 含资产**: 10 个
 
 ## 流行度
 
-- **Star**: 68,357 · **Fork**: 7,722 · **开放 issue**: 4,244 · **贡献者**: 309
+- **Star**: 68,424 · **Fork**: 7,732 · **开放 issue**: 4,262 · **贡献者**: 309
 
 ## 累计统计
 
-- **发布数**: 39 · **已合并 PR**: 1979 · **开放 PR**: 24 · **已关闭 issue**: 3917 · **开放 issue**: 327 · **提交数**: 2736
+- **发布数**: 40 · **已合并 PR**: 1990 · **开放 PR**: 26 · **已关闭 issue**: 3936 · **开放 issue**: 326 · **提交数**: 2748
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 1 | 171 | 8 | 190 | 30 | 161 |
-| last60d | 2026-09-18 | 4 | 321 | 10 | 346 | 46 | 316 |
-| 90d | 2026-08-19 | 5 | 410 | 15 | 440 | 64 | 422 |
-| last180d | 2026-05-21 | 11 | 547 | 18 | 638 | 105 | 665 |
-| 360d | 2025-11-22 | 18 | 824 | 23 | 1109 | 173 | 1003 |
-| last720d | 2024-11-27 | 30 | 1217 | 24 | 2223 | 274 | 1649 |
+| 30d | 2026-10-20 | 2 | 175 | 10 | 195 | 33 | 173 |
+| last60d | 2026-09-20 | 5 | 332 | 12 | 361 | 49 | 328 |
+| 90d | 2026-08-21 | 6 | 418 | 17 | 454 | 67 | 434 |
+| last180d | 2026-05-23 | 12 | 554 | 20 | 649 | 105 | 677 |
+| 360d | 2025-11-24 | 19 | 835 | 25 | 1127 | 172 | 1015 |
+| last720d | 2024-11-29 | 31 | 1229 | 26 | 2234 | 273 | 1661 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [AnythingLLMDesktop-Arm64.AppImage](https://github.com/Mintplex-Labs/anything-llm/releases/download/v1.19.0/AnythingLLMDesktop-Arm64.AppImage) | 604.4 MiB | `other` |
-| [AnythingLLMDesktop-Arm64.exe](https://github.com/Mintplex-Labs/anything-llm/releases/download/v1.19.0/AnythingLLMDesktop-Arm64.exe) | 478.3 MiB | `other` |
-| [AnythingLLMDesktop-Silicon.dmg](https://github.com/Mintplex-Labs/anything-llm/releases/download/v1.19.0/AnythingLLMDesktop-Silicon.dmg) | 557.2 MiB | `other` |
-| [AnythingLLMDesktop.AppImage](https://github.com/Mintplex-Labs/anything-llm/releases/download/v1.19.0/AnythingLLMDesktop.AppImage) | 863.5 MiB | `other` |
-| [AnythingLLMDesktop.dmg](https://github.com/Mintplex-Labs/anything-llm/releases/download/v1.19.0/AnythingLLMDesktop.dmg) | 524.5 MiB | `other` |
-| [AnythingLLMDesktop.exe](https://github.com/Mintplex-Labs/anything-llm/releases/download/v1.19.0/AnythingLLMDesktop.exe) | 384.6 MiB | `other` |
-| [installer.sh](https://github.com/Mintplex-Labs/anything-llm/releases/download/v1.19.0/installer.sh) | 23.0 KiB | `other` |
+| [AnythingLLMDesktop-Arm64.AppImage](https://github.com/Mintplex-Labs/anything-llm/releases/download/v1.20.0/AnythingLLMDesktop-Arm64.AppImage) | 645.0 MiB | `other` |
+| [AnythingLLMDesktop-Arm64.AppImage.sha256](https://github.com/Mintplex-Labs/anything-llm/releases/download/v1.20.0/AnythingLLMDesktop-Arm64.AppImage.sha256) | 100 B | `other` |
+| [AnythingLLMDesktop-Arm64.exe](https://github.com/Mintplex-Labs/anything-llm/releases/download/v1.20.0/AnythingLLMDesktop-Arm64.exe) | 462.0 MiB | `other` |
+| [AnythingLLMDesktop-Silicon.dmg](https://github.com/Mintplex-Labs/anything-llm/releases/download/v1.20.0/AnythingLLMDesktop-Silicon.dmg) | 576.5 MiB | `other` |
+| [AnythingLLMDesktop.AppImage](https://github.com/Mintplex-Labs/anything-llm/releases/download/v1.20.0/AnythingLLMDesktop.AppImage) | 907.0 MiB | `other` |
+| [AnythingLLMDesktop.AppImage.sha256](https://github.com/Mintplex-Labs/anything-llm/releases/download/v1.20.0/AnythingLLMDesktop.AppImage.sha256) | 94 B | `other` |
+| [AnythingLLMDesktop.dmg](https://github.com/Mintplex-Labs/anything-llm/releases/download/v1.20.0/AnythingLLMDesktop.dmg) | 525.8 MiB | `other` |
+| [AnythingLLMDesktop.exe](https://github.com/Mintplex-Labs/anything-llm/releases/download/v1.20.0/AnythingLLMDesktop.exe) | 378.3 MiB | `other` |
+| [installer.sh](https://github.com/Mintplex-Labs/anything-llm/releases/download/v1.20.0/installer.sh) | 25.7 KiB | `other` |
+| [version.txt](https://github.com/Mintplex-Labs/anything-llm/releases/download/v1.20.0/version.txt) | 6 B | `other` |
 
 ## 改进这些数据
 
@@ -76,4 +79,4 @@ anything-llm 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/inst
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261117.yml` · 2026-11-17T11:10:33Z._
+_数据快照: `data/card/261119.yml` · 2026-11-19T10:06:29Z._
